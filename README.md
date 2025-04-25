@@ -1,7 +1,7 @@
 # CS216_P10_Grades.py
 # Hannah Shane
 # 4/20/25
-# Final project for CS216 - Reads CSV, summarizes grades, draws pie chart, and writes summary
+# Final project for CS216 - Reads CSV, summarizes grades, creates a pie chart, and writes summary
 
 import tkinter as tk
 from tkinter import filedialog, messagebox, Canvas
